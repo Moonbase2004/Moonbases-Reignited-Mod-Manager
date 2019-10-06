@@ -10,9 +10,9 @@ This mod manager makes it easier for you to add mods to your game and also disab
 
 You will need:
 
->Visual Studio 2019
->.NET Windows Forms
->Spyro Reignited Trilogy (I do not condome with pirating btw)
+Visual Studio 2019
+.NET Windows Forms
+Spyro Reignited Trilogy (I do not condome with pirating btw)
 
 # Conclusion
 
